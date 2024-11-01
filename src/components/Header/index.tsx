@@ -1,4 +1,4 @@
-import { Container, Logo, BackIcon, BackButton } from './styled'
+import { Container, Logo, BackButton, BackIcon } from './styled'
 import logoImg from '../../assets/logo.png'
 
 type Props = {
